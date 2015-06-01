@@ -8,6 +8,10 @@ Hier ist die Änderung nach git add .
 Hier ist die Änderung nach git add .
 Hier ist die Änderung nach git add .
 Hier ist die Änderung nach git add .
+new-branch
+new-branch
+new-branch
+new-branch
 Change on Branch test-branch
 Change on Branch test-branch
 Change on Branch test-branch
